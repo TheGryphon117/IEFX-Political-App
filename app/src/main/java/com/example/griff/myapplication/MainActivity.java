@@ -16,7 +16,7 @@ private WebView mWebView;
 
         WebSettings webSettings = mWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
-        mWebView.loadUrl("https://www.ap.org/en-us/topics/politics/");
+        mWebView.loadUrl("https://www.reuters.com/politics");
 
     }
 }
